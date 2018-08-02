@@ -117,8 +117,7 @@ circusctl quit --waiting
 
 
 ## Donations
-  * My ethereum wallet : `0xFBd6f9704478104f0EF3F4f9834c3621210fE598`
-  * My Nano wallet : `xrb_1ppmk9ki9kungyer845deysmwokfeughmojxuhorpn7fpiizmka7b3r5jj4z`
+  * Project Osereum wallet : `OSR9b38133cea9c1b19ae0803baf7932d5`
 
 ## License
 
