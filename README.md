@@ -121,6 +121,6 @@ circusctl quit --waiting
 
 ## License
 
-[![License](https://img.shields.io/github/license/ethereum/cpp-ethereum.svg)](LICENSE)
+[![License](https://img.shields.io/github/license/ethereum/cpp-ethereum.svg)](LICENSE) [![Join the chat at https://gitter.im/osereum/Lobby](https://badges.gitter.im/osereum/Lobby.svg)](https://gitter.im/osereum/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 All contributions are made under the [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.en.html). See [LICENSE](LICENSE).
